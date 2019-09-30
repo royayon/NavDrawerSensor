@@ -18,6 +18,7 @@ import android.hardware.SensorManager;
 import android.hardware.Sensor;
 import android.hardware.SensorEvent;
 import android.hardware.SensorEventListener;
+
 import android.widget.ImageView;
 import android.widget.TextView;
 
